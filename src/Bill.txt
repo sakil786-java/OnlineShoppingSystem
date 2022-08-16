@@ -1,0 +1,5 @@
+Customer Name: Sakil
+[Product ID: 1, Product Name: Sugar, Product Price: 100.0 
+, Product ID: 2, Product Name: Wheat, Product Price: 80.0 
+, Product ID: 3, Product Name: Rice, Product Price: 78.0 
+]
